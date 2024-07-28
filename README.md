@@ -39,6 +39,10 @@ Apsiyon proptech hackathon için toplanan veriler gerçek anketlerden elde edilm
 ## KATKI 
 Apsiyon mentörü Önol ÜSTÜN (İş Geliştirme Müdürü) yardımıyla oluşturulan iş akış şemasına [buradan](https://github.com/zeynepavlamaz/EMLAYER/blob/main/I%CC%87S%CC%A7%20AKIS%CC%A7%20S%CC%A7EMASI.pdf) ulaşabilirsiniz.
 
+
+
+### PROJE SUNUMUNA [buradan](https://www.canva.com/design/DAGMFusy9zk/LZyGtyQQ0PTDOIPM-VmjPw/edit?utm_content=DAGMFusy9zk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) ulaşabilirsiniz
+
   
 
 
