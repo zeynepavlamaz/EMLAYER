@@ -59,4 +59,4 @@ Apsiyon mentörü Önol ÜSTÜN (İş Geliştirme Müdürü) yardımıyla oluşt
 ## İletişim
 
 - **Geliştirici:** Zeynep Avlamaz
-- **E-posta:** zeynep.avlamaz@example.com
+- **E-posta:** zzavlamaz@gmail.com
