@@ -41,7 +41,7 @@ Apsiyon mentörü Önol ÜSTÜN (İş Geliştirme Müdürü) yardımıyla oluşt
 
 
 
-### PROJE SUNUMUNA [buradan](https://www.canva.com/design/DAGMFusy9zk/LZyGtyQQ0PTDOIPM-VmjPw/edit?utm_content=DAGMFusy9zk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) ulaşabilirsiniz
+utm_content=DAGMFusy9zk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) ulaşabilirsiniz
 
   
 
