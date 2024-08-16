@@ -1,4 +1,6 @@
 # EMLAYER
+## (Apsiyon proptech hackathonu finalist olarak tamamlandı)
+
 
 (Tanıtım Videosuna [buradan](https://www.youtube.com/watch?v=7OkcZbNiTVg) ulaşabilirsiniz. )
 
